@@ -1,0 +1,7 @@
+F:\my work spacee\2ndProjectFP\bin\Debug\2ndProjectFP.exe.config
+F:\my work spacee\2ndProjectFP\bin\Debug\2ndProjectFP.exe
+F:\my work spacee\2ndProjectFP\bin\Debug\2ndProjectFP.pdb
+F:\my work spacee\2ndProjectFP\obj\Debug\2ndProjectFP.csproj.AssemblyReference.cache
+F:\my work spacee\2ndProjectFP\obj\Debug\2ndProjectFP.csproj.CoreCompileInputs.cache
+F:\my work spacee\2ndProjectFP\obj\Debug\2ndProjectFP.exe
+F:\my work spacee\2ndProjectFP\obj\Debug\2ndProjectFP.pdb
